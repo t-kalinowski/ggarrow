@@ -1,6 +1,6 @@
 # ggarrow (development version)
 
-* `element_arrow()` now constructs arrow theme elements with development S7.
+* Updates for compatibility with S7 > 0.2.2.
 
 # ggarrow 0.2.0
 
